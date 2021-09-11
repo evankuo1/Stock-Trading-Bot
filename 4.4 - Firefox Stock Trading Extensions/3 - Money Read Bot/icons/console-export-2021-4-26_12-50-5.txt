@@ -1,0 +1,5 @@
+Console was cleared. stockTrader.js:158:12
+0 stockTrader.js:159:12
+0 stockTrader.js:160:12
+0 stockTrader.js:161:12
+0 stockTrader.js:162:12

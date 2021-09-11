@@ -1,0 +1,1 @@
+496 moneyRead.js:33:27
